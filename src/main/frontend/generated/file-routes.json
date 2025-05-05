@@ -1,0 +1,14 @@
+[
+  {
+    "route": "",
+    "flowLayout": false,
+    "params": {},
+    "title": "Home"
+  },
+  {
+    "route": "news-item",
+    "flowLayout": false,
+    "params": {},
+    "title": "News List"
+  }
+]

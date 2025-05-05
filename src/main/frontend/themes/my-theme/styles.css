@@ -1,0 +1,90 @@
+body {
+    font-family: "Arial", serif;
+    margin: 0;
+    background: #eeeeee;
+    color: #111;
+}
+
+.bg {
+    background-color: #eeeeee;
+}
+
+header {
+    text-align: center;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background: #eeeeee;
+}
+
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    margin: 10px 20px;
+    color: #555;
+}
+
+.lang span {
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 32px;
+    font-family: 'UnifrakturCook', cursive;
+    color: black;
+    margin: 0;
+}
+
+.articles {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+}
+
+.article-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch; /* This ensures the image and text have equal height */
+    gap: 20px;
+    border-bottom: 1px solid #ccc;
+    padding: 20px 0;
+}
+
+.article-text {
+    flex: 1;
+}
+
+.article-text a {
+    text-decoration: none;
+}
+
+.article-img {
+    width: 300px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+.date {
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family: "Times New Roman", serif;
+    font-size: 20px;
+    margin: 5px 0;
+}
+
+.summary {
+    font-size: 14px;
+    color: #333;
+}
+
+.creator {
+    font-size: 11px;
+    color: #888;
+}

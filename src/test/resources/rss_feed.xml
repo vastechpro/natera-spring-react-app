@@ -1,0 +1,187 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+    <channel>
+        <title>NYT > Technology</title>
+        <link>https://www.nytimes.com/section/technology</link>
+        <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" rel="self" type="application/rss+xml"/>
+        <description/>
+        <language>en-us</language>
+        <copyright>Copyright 2025 The New York Times Company</copyright>
+        <lastBuildDate>Mon, 05 May 2025 04:31:04 +0000</lastBuildDate>
+        <pubDate>Mon, 05 May 2025 02:09:30 +0000</pubDate>
+        <image>
+            <title>NYT > Technology</title>
+            <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+            <link>https://www.nytimes.com/section/technology</link>
+        </image>
+        <item>
+            <title>How Misinformation and Partisan ‘New Media’ Changed a California Town</title>
+            <link>https://www.nytimes.com/2025/05/03/technology/news-misinformation-facebook-oakdale.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2025/05/03/technology/news-misinformation-facebook-oakdale.html</guid>
+            <atom:link href="https://www.nytimes.com/2025/05/03/technology/news-misinformation-facebook-oakdale.html" rel="standout"/>
+            <description>Residents of Oakdale, Calif., have abandoned traditional media outlets for a mishmash of online sources. These days, they’re often not sure what information to trust.</description>
+            <dc:creator>Eli Tan and Ulysses Ortega</dc:creator>
+            <pubDate>Sat, 03 May 2025 18:17:12 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oakdale (Calif)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CNN</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Epoch Times</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fox News Channel</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bongino, Daniel</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+            <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2025/05/04/multimedia/OAKDALE-MEDIA-01-fbjg/OAKDALE-MEDIA-01-fbjg-mediumSquareAt3X.jpg" width="1800"/>
+            <media:description>As time has gone on, traditional news outlets in Oakdale, Calif., have slowly disappeared.</media:description>
+        </item>
+        <item>
+            <title>Sam Altman’s Start-Up Launches Eye-Scanning Crypto Orbs in the U.S.</title>
+            <link>https://www.nytimes.com/2025/05/03/technology/world-eye-scanning-crypto-orbs-launch-in-us.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2025/05/03/technology/world-eye-scanning-crypto-orbs-launch-in-us.html</guid>
+            <atom:link href="https://www.nytimes.com/2025/05/03/technology/world-eye-scanning-crypto-orbs-launch-in-us.html" rel="standout"/>
+            <description>World, a start-up backed by Sam Altman, has launched in the United States with the goal of verifying your humanity.</description>
+            <dc:creator>Kevin Roose and Jason Henry</dc:creator>
+            <pubDate>Sat, 03 May 2025 04:00:12 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Identification Devices</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Eyes and Eyesight</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Biometrics</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+            <category domain=""/>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/02/multimedia/ROOSE-Promo-kzph/ROOSE-Promo-kzph-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Jason Henry for The New York Times</media:credit>
+        </item>
+        <item>
+            <title>Google Plans to Roll Out Gemini A.I. Chatbot to Children Under 13</title>
+            <link>https://www.nytimes.com/2025/05/02/technology/google-gemini-ai-chatbot-kids.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2025/05/02/technology/google-gemini-ai-chatbot-kids.html</guid>
+            <atom:link href="https://www.nytimes.com/2025/05/02/technology/google-gemini-ai-chatbot-kids.html" rel="standout"/>
+            <description>The tech giant said it would make its Gemini chatbot available to children next week, and warned families in an email about the changes.</description>
+            <dc:creator>Natasha Singer</dc:creator>
+            <pubDate>Fri, 02 May 2025 18:05:13 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Children's Online Privacy Protection Act</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="">Gemini (Chatbot)</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/02/multimedia/00biz-Gemini-Kids-vtfg/00biz-Gemini-Kids-vtfg-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Jim Wilson/The New York Times</media:credit>
+            <media:description>The Google chatbot will be available to children under 13 whose parents use Family Link.</media:description>
+        </item>
+        <item>
+            <title>Justice Dept. Lawyers Say US Wants to Break Up Google’s Ad Technology</title>
+            <link>https://www.nytimes.com/2025/05/02/technology/google-advertising-technology-hearing.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2025/05/02/technology/google-advertising-technology-hearing.html</guid>
+            <atom:link href="https://www.nytimes.com/2025/05/02/technology/google-advertising-technology-hearing.html" rel="standout"/>
+            <description>In a hearing on Friday, lawyers for the Justice Department indicated the government would double down on its requests to break up the tech giant’s business.</description>
+            <dc:creator>David McCabe</dc:creator>
+            <pubDate>Fri, 02 May 2025 18:01:59 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brinkema, Leonie M</category>
+            <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2025/05/03/multimedia/03biz-google-hfo-fmbp/2biz-google-hfo-fmbp-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Jason Henry for The New York Times</media:credit>
+            <media:description>A lawyer for the Justice Department said that the government expected to ask the court to force Google to divest tools used to run its ad business. </media:description>
+        </item>
+        <item>
+            <title>Voters Approve Incorporation of SpaceX Hub as Starbase, Texas</title>
+            <link>https://www.nytimes.com/2025/05/03/business/spacex-starbase-south-texas-vote.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2025/05/03/business/spacex-starbase-south-texas-vote.html</guid>
+            <atom:link href="https://www.nytimes.com/2025/05/03/business/spacex-starbase-south-texas-vote.html" rel="standout"/>
+            <description>A South Texas community, mostly made up of SpaceX employees, voted 212 to 6 in favor of establishing a new city called Starbase.</description>
+            <dc:creator>Hank Sanders</dc:creator>
+            <pubDate>Sun, 04 May 2025 02:44:02 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cameron County (Tex)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Starbase (Tex)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/03/multimedia/03xp-starbase-htzf/03xp-starbase-htzf-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Gabriel V. Cárdenas for The New York Times</media:credit>
+            <media:description>Members of a South Texas community that is home to SpaceX and many of its employees voted Saturday to establish the city of Starbase.</media:description>
+        </item>
+        <item>
+            <title>TikTok Fined $600 Million for Sending European User Data to China</title>
+            <link>https://www.nytimes.com/2025/05/02/business/tiktok-eu-data-china.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2025/05/02/business/tiktok-eu-data-china.html</guid>
+            <atom:link href="https://www.nytimes.com/2025/05/02/business/tiktok-eu-data-china.html" rel="standout"/>
+            <description>Irish investigators said TikTok did not protect the data of users in the European Union, improperly transferring some of it to China. TikTok said it would appeal.</description>
+            <dc:creator>Adam Satariano</dc:creator>
+            <pubDate>Fri, 02 May 2025 18:10:08 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Fines (Penalties)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">General Data Protection Regulation (GDPR)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Bytedance Technology Co Ltd</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/03/multimedia/03biz-eu-tiktok-hjfw/02biz-eu-tiktok-hjfw-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Roslan Rahman/Agence France-Presse — Getty Images</media:credit>
+            <media:description>The fine adds to the challenges faced by TikTok’s owner, ByteDance, amid increased scrutiny in the United States.</media:description>
+        </item>
+        <item>
+            <title>The Dangers of A.I. Flattery + Kevin Meets the Orb + Group Chat Chat</title>
+            <link>https://www.nytimes.com/2025/05/02/podcasts/hardfork-ai-flattery.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2025/05/02/podcasts/hardfork-ai-flattery.html</guid>
+            <atom:link href="https://www.nytimes.com/2025/05/02/podcasts/hardfork-ai-flattery.html" rel="standout"/>
+            <description>“A.I.s are getting more persuasive and they are learning how to manipulate human behavior.”</description>
+            <dc:creator>Kevin Roose, Casey Newton, Whitney Jones, Rachel Cohn, Matt Collette, Chris Wood, Dan Powell, Elisheba Ittoop, Rowan Niemisto and Diane Wong</dc:creator>
+            <pubDate>Fri, 02 May 2025 11:00:03 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reddit Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
+            <category domain=""/>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/02/podcasts/02hardfork-glossing/02hardfork-glossing-mediumSquareAt3X.png" width="1800"/>
+            <media:credit>Photo Illustration by The New York Times; Photo: Valerie Loiseleux/Getty Images</media:credit>
+        </item>
+        <item>
+            <title>Apple’s Quarterly Earnings Tops Wall Street Expectations With $24.78 Billion Profit</title>
+            <link>https://www.nytimes.com/2025/05/01/technology/apple-earnings-profit.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2025/05/01/technology/apple-earnings-profit.html</guid>
+            <atom:link href="https://www.nytimes.com/2025/05/01/technology/apple-earnings-profit.html" rel="standout"/>
+            <description>Tim Cook, the company’s C.E.O., said he expected $900 million in extra costs this quarter because of President Trump’s tariffs.</description>
+            <dc:creator>Tripp Mickle</dc:creator>
+            <pubDate>Thu, 01 May 2025 22:35:07 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">iPhone</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cook, Timothy D</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/01/multimedia/01biz-apple-vzfb/01biz-apple-vzfb-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Karsten Moran for The New York Times</media:credit>
+            <media:description>Some customers raced to buy iPhones before prices went up, helping lift sales.</media:description>
+        </item>
+    </channel>
+</rss>
