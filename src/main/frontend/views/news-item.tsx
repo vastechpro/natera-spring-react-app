@@ -75,9 +75,11 @@ export default function NewsList() {
                             </a>
                             <p className="creator">{item.creator}</p>
                         </div>
-                        <a href={item.link} target="_blank" rel="noopener noreferrer">
-                            <img src={item.imageUrl} alt="article" className="article-img" />
-                        </a>
+                        {item.imageUrl && (
+                            <a href={item.link} target="_blank" rel="noopener noreferrer">
+                                <img src={item.imageUrl} alt="article" className="article-img" />
+                            </a>
+                        )}
                     </article>
                 );
             })}
