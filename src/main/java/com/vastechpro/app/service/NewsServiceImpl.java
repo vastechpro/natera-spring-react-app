@@ -14,6 +14,9 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 
+/**
+ * Implementation of NewsService
+ */
 @Slf4j
 @Service
 public class NewsServiceImpl implements NewsService {
@@ -21,6 +24,13 @@ public class NewsServiceImpl implements NewsService {
     @Autowired
     private NewsRepository newsRepository;
 
+    /**
+     * This method saves the news item into the repository if
+     * 1. The news item is less than 24hrs old
+     * 2. The news item is not already present in the repository
+     * @param newsItem
+     * @throws AppServiceException
+     */
     @Override
     public void saveNewsItem(String newsItem) throws AppServiceException {
         ObjectMapper objectMapper = new ObjectMapper();
@@ -38,6 +48,12 @@ public class NewsServiceImpl implements NewsService {
         }
     }
 
+    /**
+     * This method returns paginated news articles
+     * @param paging
+     * @return
+     * @throws AppServiceException
+     */
     @Override
     public List<RssFeedItemDTO> getAllNews(Pageable paging) throws AppServiceException {
         return newsRepository.getAllNews(paging);

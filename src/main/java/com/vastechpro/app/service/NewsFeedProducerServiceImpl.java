@@ -21,6 +21,9 @@ import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * RSS implementation of NewsFeedProducerService
+ */
 @Slf4j
 @Service
 public class NewsFeedProducerServiceImpl implements NewsFeedProducerService {

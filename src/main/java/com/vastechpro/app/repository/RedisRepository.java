@@ -14,15 +14,24 @@ import java.util.List;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
+/**
+ * Redis repository implementation of NewsRepository
+ */
 @Component
 @Slf4j
 public class RedisRepository implements NewsRepository {
 
-    private final String pubdateSortedSetKey = "pubdateSortedSet";
+    public static final String pubdateSortedSetKey = "pubdateSortedSet";
 
     @Autowired
     private RedisTemplate<String, Object> redisTemplate;
 
+    /**
+     * This method returns paginated news articles sorted by date
+     * @param paging
+     * @return
+     * @throws AppServiceException
+     */
     @Override
     public List<RssFeedItemDTO> getAllNews(Pageable paging) throws AppServiceException {
         try {
@@ -45,6 +54,11 @@ public class RedisRepository implements NewsRepository {
         }
     }
 
+    /**
+     * This method saves a new item in cache and add the key to a sorted set
+     * @param newsItem
+     * @throws AppServiceException
+     */
     @Override
     public void saveNewsItem(RssFeedItemDTO newsItem) throws AppServiceException {
         try {
@@ -56,6 +70,12 @@ public class RedisRepository implements NewsRepository {
         }
     }
 
+    /**
+     * This method check whether the given key is present in cache
+     * @param id
+     * @return
+     * @throws AppServiceException
+     */
     @Override
     public Boolean checkNewsItem(String id) throws AppServiceException {
         try {

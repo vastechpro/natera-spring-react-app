@@ -6,6 +6,9 @@ import lombok.*;
 
 import java.util.Date;
 
+/**
+ * Data transfer object for news items
+ */
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
@@ -20,6 +23,11 @@ public class RssFeedItemDTO {
     private Date pubDate;
     private String imageUrl;
 
+    /**
+     * This method builds a data transfer object from RSS feed item
+     * @param item
+     * @return
+     */
     public static RssFeedItemDTO from(SyndEntry item) {
         return RssFeedItemDTO.builder()
                 .id(item.getTitle())

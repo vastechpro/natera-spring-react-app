@@ -6,6 +6,9 @@ import org.springframework.data.domain.Pageable;
 
 import java.util.List;
 
+/**
+ * Interface for CRUD operations for news articles
+ */
 public interface NewsRepository {
     List<RssFeedItemDTO> getAllNews(Pageable paging) throws AppServiceException;
 

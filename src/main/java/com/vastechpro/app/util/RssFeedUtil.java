@@ -8,11 +8,21 @@ import org.jdom2.Element;
 import java.util.List;
 
 public class RssFeedUtil {
+    /**
+     * This method returns the creator string from the RSS item creator module
+     * @param item
+     * @return
+     */
     public static String getCreator(SyndEntry item) {
         DCModule creatorModule = (DCModule) item.getModules().get(0);
         return creatorModule.getCreator();
     }
 
+    /**
+     * This method returns the image url from RSS item foreign markup
+     * @param item
+     * @return
+     */
     public static String getImageUrl(SyndEntry item) {
         List<Element> foreignMarkup = item.getForeignMarkup();
         String imageUrl = null;

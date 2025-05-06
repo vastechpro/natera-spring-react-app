@@ -6,6 +6,9 @@ import org.springframework.data.domain.Pageable;
 
 import java.util.List;
 
+/**
+ * Interface for News articles APi service
+ */
 public interface NewsService {
     void saveNewsItem(String newsItem) throws AppServiceException;
 
